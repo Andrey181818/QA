@@ -1,0 +1,4 @@
+cd
+mkdir
+rm
+cd
